@@ -1,5 +1,8 @@
+![Project Banner](https://img.shields.io/badge/Project-Playstore%20Data%20Analysis-blueviolet?style=for-the-badge)
+
 # palystore_data
 Cleaned Play Store Data.
+
 # 📊 Play Store Data Analysis & Visualization
 
 This project analyzes Google Play Store apps to uncover insights about ratings, installs, and app categories.  
